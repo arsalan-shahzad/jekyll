@@ -1,3 +1,11 @@
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Firebase
 # Logs
 logs
 *.log
@@ -63,11 +71,3 @@ node_modules/
 
 # dotenv environment variables file
 .env
-
-#jekyll Ignore
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-
