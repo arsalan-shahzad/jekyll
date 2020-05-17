@@ -1,5 +1,5 @@
 # Jekyll
-_site
+_site/staging/
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
@@ -71,6 +71,3 @@ node_modules/
 
 # dotenv environment variables file
 .env
-
-_site/
-_site/index.html
